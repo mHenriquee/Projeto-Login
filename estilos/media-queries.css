@@ -242,7 +242,7 @@ Grandes telas: acima de 1200px
         padding: 25px;
         height: 100px;
         margin-top: 20px;
-        margin-left: 20px;
+        margin-left: 40px;
     }
 
     form > input[type=submit] {
@@ -251,7 +251,7 @@ Grandes telas: acima de 1200px
         padding: 10px;
         margin: auto;
         margin-top: 40px;
-        margin-left: 50px;
+        margin-left: 70px;
         width: 90%;
         height: 40px;
         background-color: var(--cor-principal);
@@ -266,6 +266,6 @@ Grandes telas: acima de 1200px
         width: 88%;
         margin: auto;
         margin-top: 15px;
-        margin-left: 50px;
+        margin-left: 72px;
     }
 }
